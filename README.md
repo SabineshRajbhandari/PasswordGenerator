@@ -9,7 +9,6 @@ This project provides a simple and efficient setup to generate passwords using R
 ## Features
 
 - Password generation using React components.
-- Fast Refresh with either Babel or SWC.
 - ESLint included for code quality.
 - Project setup with Vite for lightning-fast development.
 - Supports JavaScript, CSS, and HTML.
